@@ -1,6 +1,16 @@
 # Manufacturing-Insights-PowerBI-Dashboard
 Enhancing Manufacturing Efficiency Through Data-Driven Insights
 
+## 📸 Dashboard Preview
+### Overview Dashboard
+![Overview_Dashboard](https://github.com/Anshul-Baghel-03/Manufacturing-Analytics-PowerBI-Dashboard/blob/main/images/Overview%20Dashboard.png)
+
+### Employee Dashboard
+![Overview_Dashboard](https://github.com/Anshul-Baghel-03/Manufacturing-Analytics-PowerBI-Dashboard/blob/main/images/Employee%20Dashboard.png)
+
+### Trends and Prediction
+![Overview_Dashboard](https://github.com/Anshul-Baghel-03/Manufacturing-Analytics-PowerBI-Dashboard/blob/main/images/Trends%20and%20Prediction.png)
+
 ## 📌 Project Overview
 
 This project focuses on enhancing manufacturing efficiency through data-driven insights using Power BI.
